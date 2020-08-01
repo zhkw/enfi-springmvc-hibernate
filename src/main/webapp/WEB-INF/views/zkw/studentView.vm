@@ -1,0 +1,12 @@
+##参数项目路径
+<input id="basePath" type="hidden" value="${basePath}"/>
+##标志是查询还是管理价格库
+##<input id="param" type="hidden" value="${param}"/>
+
+<script type="text/javascript" src="${basePath}/resources/js/Utils.js"></script>
+<script type="text/javascript" src = "${basePath}/resources/js/zkw/student.js"></script>
+
+
+    <div style="height:100%;width:100%;box-sizing:border-box;">
+        <table id="studentTable"></table>
+    </div>
